@@ -3,7 +3,7 @@ from django.views.generic import ListView, DetailView
 from .models import PricingRooms, GalleryModel
 import telebot
 
-token = '5264106705:AAHdfaGC-afFIDlTAW9Dt-i-9u0d9fUMTk0'
+token = '5264106705:AAHdfaGC-afFIDlTAW9Dt-i-9u0d9fUMAS-i-Tk0'
 
 bot = telebot.TeleBot(token)
 
